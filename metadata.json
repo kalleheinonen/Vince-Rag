@@ -1,0 +1,5 @@
+{
+  "name": "VINCE Student Assistant RAG Engine",
+  "description": "A high-performance RAG (Retrieval-Augmented Generation) system built for the VINCE project. It provides integration assistance by searching through a massive corpus of Swedish and Finnish regulatory and student life documentation, adhering to the YINTE(B)S course technical schemas.",
+  "requestFramePermissions": []
+}
